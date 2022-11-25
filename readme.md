@@ -31,4 +31,3 @@ To do
 - `git merge`   - to merge branches
 - `git clone` - 
 repository to enable push to github
-
