@@ -14,6 +14,7 @@
         - `git commit -m` - go ahead commit all files/changes in staging area with a description. for example `git commit -m "My first commit"`
 6. To create branch 
     `git branch <branch_name>`
+    `git branch` - list all the available branches in a git repository
 7. To switch between branches
     `git checkout <branch_name>`
 9. To verify a commit
@@ -22,12 +23,10 @@
     `git show <commit_hash>`
 11. To display status of git
     `git status`
+12. `git remote add origin` - to add remote repository to your local 
+13. `git push` - push local commit to remote reposity
+14. `git pull` - pull remote repository to local pc
+15. `git clone` - make a copy of a remote repository to a local pc
+16. `git merge`   - to merge branches or two/more history together
+17. `git rebase`  - to squash a multiple commits
 
-To do
-- `git remote add origin` - to add remote repository to your local 
-- `git push` - push local commit to remote reposity
-- `git pull` - pull remote repository to local pc
-- `git rebase`  - to squash a multiple commits
-- `git merge`   - to merge branches
-- `git clone` - 
-repository to enable push to github
