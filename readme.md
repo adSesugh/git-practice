@@ -1,3 +1,5 @@
+### Day 1
+--------------------------------------
 1. initialize a git
     `git init`
 
@@ -23,6 +25,9 @@
     `git show <commit_hash>`
 11. To display status of git
     `git status`
+
+### Day 2
+---------------------------------
 12. `git remote add origin` - to add remote repository to your local 
 13. `git push` - push local commit to remote reposity
 14. `git pull` - pull remote repository to local pc
